@@ -13,6 +13,7 @@
   "devDependencies": {
     "@commitlint/config-conventional": "^19.8.1",
     "commitlint": "^19.8.1",
+    "dotenv": "^17.2.1",
     "husky": "^9.1.7"
   }
 }
